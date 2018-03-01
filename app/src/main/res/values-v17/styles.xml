@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyTitleTextAppearance" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+       <!-- <item name="android:textSize">35dp</item>
+        <item name="android:textColor">#ffaa66cc</item>
+        <item name="android:textAlignment">center</item>-->
+    </style>
+</resources>

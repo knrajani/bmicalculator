@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">BMICalculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="enterHeight">Enter Height</string>
+    <string name="enterWeight">Enter Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmiValue">BMI : </string>
+
+    <string name="setting_title">Settings</string>
+    <string name="male">Male : </string>
+    <string name="female">Female : </string>
+    <string name="dob">Date of Birth</string>
+    <string name="notify">Notification </string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="history">History</string>
+    <string name="about_main">About</string>
+    <string name="about">Calculates BMI. BMI values can be saved, deleted and displayed according to sort options. Data is saved in mobile itself.</string>
+    <string name="wtKg">Weight in Kgs</string>
+    <string name="htcms">Height in Cms</string>
+
+
+    <string-array name="height">
+        <item>(in Cms)</item>
+        <item>(in Inches)</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>(in Kgs)</item>
+        <item>(in Lbs)</item>
+    </string-array>
+
+    <string-array name="bmi">
+        <item>Very severely underweight</item>
+        <item>Severely underweight</item>
+        <item>Underweight</item>
+        <item>Normal</item>
+        <item>Overweight</item>
+        <item>Obese class 1</item>
+        <item>Obese class 2</item>
+        <item>Obese class 3</item>
+    </string-array>
+
+</resources>
